@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-asava.
 - 👀 I’m interested in Technology & Biology.
-- 🌱 I’m currently learning software engineering at ALX.
+- 🌱 I’m a full stack software engineer.
 - 💞️ I’m looking to collaborate on any solution that amalgamates technology
 - to solve the worlds most pressing problems. 
 - 📫 How to reach me < adikasaid996@gmail.com >
